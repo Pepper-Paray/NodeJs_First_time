@@ -1,0 +1,12 @@
+{
+  "name": "es-modules-practice",
+  "version": "1.0.0",
+  "description": "A project for practicing ES Modules with utility modules for math and string manipulation.",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "Pepper-Paray",
+  "license": "ISC"
+}
